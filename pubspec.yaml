@@ -24,7 +24,7 @@ dependencies:
   json_annotation:
   provider:
   path_provider:
-  dio:
+  dio: any
   audioplayers:
 
   # The following adds the Cupertino Icons font to your application.
